@@ -5,13 +5,15 @@ import UseReduce from './UseReduce.js';
 import UseEffectTrail from './UseEffectTrail.js';
 import UseLayoutEffectTrail from './UseLayoutEffectTrail.js';
 import ImperativeHandleTrail from './ImperativeHandleTrail';
+import UseCallBackTrail from './UseCallBackTrail.js';
 import './style.css';
 
 export default function App() {
   return (
     <div>
+      <UseCallBackTrail />
       {/* <UseLayoutEffectTrail /> */}
-      <ImperativeHandleTrail />
+      {/* <ImperativeHandleTrail /> */}
       {/* <UseEffectTrail /> */}
       {/* <UseReduce /> */}
       {/* <UseState /> */}
