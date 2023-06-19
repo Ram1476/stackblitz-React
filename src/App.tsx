@@ -8,9 +8,9 @@ import './style.css';
 export default function App() {
   return (
     <div>
-      <UseEffectTrail />
+      {/* <UseEffectTrail /> */}
       {/* <UseReduce /> */}
-      {/* <UseState /> */}
+      <UseState />
       {/* <PreviousState /> */}
     </div>
   );
