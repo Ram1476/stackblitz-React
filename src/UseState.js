@@ -4,7 +4,7 @@ function UseState() {
   const [count, setValue] = useState(0);
   const [name, setName] = useState('Ram');
 
-  changeName = (event) => {
+  const changeName = (event) => {
     const newValue = event.target.value;
     setName(newValue);
   };
