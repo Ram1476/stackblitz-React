@@ -13,10 +13,10 @@ export default function App() {
   return (
     <div>
       {/* <UseMemoTrail /> */}
-      <UseCallBackTrail />
+      {/* <UseCallBackTrail /> */}
       {/* <UseLayoutEffectTrail /> */}
       {/* <ImperativeHandleTrail /> */}
-      {/* <UseEffectTrail /> */}
+      <UseEffectTrail />
       {/* <UseReduce /> */}
       {/* <UseState /> */}
       {/* <PreviousState /> */}
