@@ -3,7 +3,6 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "./zlib_bindings": "*",
     "@types/react": "^18.2.13",
     "@types/react-dom": "^18.2.6",
     "axios": "^1.4.0",
