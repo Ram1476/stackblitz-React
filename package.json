@@ -3,14 +3,14 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "./zlib_bindings": "*",
-    "@types/react": "18.2.12",
-    "@types/react-dom": "18.2.5",
-    "debug": "4.3.4",
-    "events": "3.3.0",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
-    "zlib": "1.0.5"
+    "@types/react": "^18.2.13",
+    "@types/react-dom": "^18.2.6",
+    "axios": "^1.4.0",
+    "debug": "^4.3.4",
+    "events": "^3.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "zlib": "^1.0.5"
   },
   "scripts": {
     "start": "react-scripts start",
